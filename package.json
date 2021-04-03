@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
+    "check-node-version": "^4.1.0",
     "cheerio": "^1.0.0-rc.5",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2",
