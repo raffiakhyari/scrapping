@@ -1,0 +1,20 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": " ini contoh bikin scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrapper"
+  ],
+  "author": "raffi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "request": "^2.88.2",
+    "superagent": "^6.1.0"
+  }
+}
